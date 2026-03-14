@@ -1,16 +1,36 @@
-## Hi there 👋
+# 您好！I'm Pavel Alexis ✌️
 
-<!--
-**pavexisant/pavexisant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Systems Engineering student** *@* Tecnológico Nacional de México (TecNM)
 
-Here are some ideas to get you started:
+🛠️ **Technician in Administrative Informatics**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Software developer** interested in backend systems and applied technology
+
+🌎 **Spanish** (Native) | **English** (C1) | **Mandarin Chinese** (HSK2)
+
+*I enjoy building software that connects data, real-world systems, and analytical decision-making.*
+
+## 🧠 About Me
+
+💡 Strong learning style based on deep understanding
+
+🧩 Interested in system design, data modeling, and problem solving
+
+📊 Interested in data engineering for real-world decision systems
+
+📚 Currently developing multiple software projects to improve full-stack development skills
+
+## 💻 Tech Stack
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)<br> ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)<br> ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+## 📚 Currently Learning
+
+- Spring Boot backend architecture
+
+- Full-stack application design
+
+- API development and integration
+
+- Advanced database modeling
+
+- Data visualization and analysis
